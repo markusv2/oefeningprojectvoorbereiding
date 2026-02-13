@@ -1,1 +1,1 @@
-console.log("Adam is ingelogd");
+console.log("Adam en James zijn ingelogd");
